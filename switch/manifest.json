@@ -1,0 +1,9 @@
+{
+    "domain": "SONY_ADCP",
+    "name": "Sony ADCP",
+    "documentation": "https://github.com/tokyotexture/homeassistant-custom-components",
+    "requirements": ["pysdcp==1"],
+    "codeowners": [],
+    "iot_class": "local_polling",
+    "loggers": ["pysdcp"]
+}
